@@ -1,2 +1,0 @@
-# birzhanroom
-Birzhans room
