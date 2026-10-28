@@ -1,0 +1,6 @@
+{
+  "name": "Халықтардың Қазақстанға депортациялануы",
+  "description": "Халықтардың Қазақстанға депортациялануы тақырыбындағы интерактивті тарихи презентация. Авторы: Сержан Біржан, тобы: APE2601.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
